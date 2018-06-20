@@ -28,12 +28,12 @@ Exempel: EU, Frölunda Indians, Utrikesdepartementet
 
 `x-im/content-profile`  
 NewsML: cpnat:object  
-Används för funktionstaggar som kan styra publiceringen  
-Exempel:  
+Används för funktionstaggar som kan styra publiceringen.  
+Exempel: Artikeltyp "Krönika"  
 
 `x-im/place`  
-NewsML: cpnat:poi
-Används för positioner och områden
+NewsML: cpnat:poi  
+Används för positioner och områden  
 Exempel: Borås, Västra götaland, Sverige  
 
 `x-im/event`  
@@ -51,8 +51,10 @@ NewsML: imnat:story
 Används för att knyta ihop artikelserier  
 Exempel: #meto-upproret, Trumps USA, SHL 17/18  
 
-`x-im/section`
-TODO:
+`x-im/section`  
+NewsML:  
+Avdelning
+Exempel: Nyheter, Affärsliv  
 
 `x-im/channel`
 NewsML: cpnat:object

@@ -54,7 +54,7 @@ Exempel: #meto-upproret, Trumps USA, SHL 17/18
 `x-im/section`
 TODO:
 
-`x-im/channel`
-NewsML: cpnat:object
-Används för att definera publiceringskanaler
-Exempel: company.com, app
+`x-im/channel`  
+NewsML: cpnat:object  
+Används för att definera publiceringskanaler  
+Exempel: company.com, app  

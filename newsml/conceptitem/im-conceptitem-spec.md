@@ -17,7 +17,7 @@ Används för alla taggar som inte kan definieras som en person, organisation el
 Exempel: Polisbil, Klimatet, Åtal, ADHD 
 	
 `x-im/person`  
-cpnat:person  
+NewsML: cpnat:person  
 Används för taggar för personer  
 Exempel: Carl Bildt, Astrid Lindgren  
 
